@@ -13,3 +13,6 @@ def about(request):
 
 def contact(request):
     return HttpResponse('Hello World, You are at chai aur django Contact page')
+
+def donotcontact(request):
+    return HttpResponse('Hello World Do not contact me')
