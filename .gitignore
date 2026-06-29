@@ -4,3 +4,5 @@ agentic_ai/.env
 __pycache__
 venv
 code_unnati_ideas.docx
+.ipynb_checkpoints
+*.pkl
